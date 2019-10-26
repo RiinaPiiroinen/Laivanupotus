@@ -1,0 +1,21 @@
+{
+  "name": "moi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
